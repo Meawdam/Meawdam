@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **meawdamxza@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/s_sxnzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_sxnzz" height="30" width="40" /></a>
 </p>
@@ -25,3 +26,4 @@
 
 
 <img src="https://raw.githubusercontent.com/Meawdam/Meawdam/output/snake.svg" alt="Snake animation" />
+</div>
