@@ -15,7 +15,6 @@ Yo!!!! I'm trying to be Full-Stack Dev.
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=Meawdam&theme=dark&hide_border=true&include_all_commits=false&count_private=false" /><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Meawdam&theme=dark&hide_border=true" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meawdam&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
