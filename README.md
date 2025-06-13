@@ -3,8 +3,7 @@
 # 💫 About Me:
 Yo!!!! I'm trying to be Full-Stack Dev.
 
-## 🌐 Socials:
-<a href="https://instagram.com/s_sxnzz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+## 🌐 Contact:
 <a href="mailto:meawdamxza@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 
 # 💻 Tech Stack:
